@@ -1,0 +1,6 @@
+#titulo{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: red;}
+.texto{font-family: Arial, sans-serif;color: red ;}
+p{background-color: rgb(196, 187, 187);}
+body{border-color: red;}
+.transp{color: red;}
+p.texto{background-color: rgb(196, 187, 187);}
